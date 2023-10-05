@@ -1,4 +1,5 @@
 # How to install
+<b>
 1- Install the file [pixmapoverlay.js](https://github.com/UmmmWilliam/PixMapOverlay/blob/main/pixmapoverlay.js)https://github.com/UmmmWilliam/PixMapOverlay/blob/main/pixmapoverlay.js onto your personal computer.
 <br>
 2- Make sure you have the tampermonkey extension installed on your broswer.
@@ -13,3 +14,4 @@
 <br>
 
 # Et voila! You have successfully installed the extension
+</b>
